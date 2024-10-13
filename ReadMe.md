@@ -6,7 +6,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh5045&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh5045" /> </p>
 
-- 🔭 I’m currently working on [Zomato Pearl](https://github.com/rushikeshkadam2310/zomato)
+- 🔭 I’m currently working in Toddle - Your teaching Partner
 
 - 💬 Ask me about **React, Node, Redux, DSA**
   
